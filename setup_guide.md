@@ -31,8 +31,13 @@
     ![img](./img/NVIDIA_driver_setup.png)
     * GeForce Experience(선택사항)
         * 게임용 어플리케이션이지만, 자동업데이트에 용이함
-* 드라이버 설치 확인
-    ![img](./img/NVIDIA_driver_check.png)
+    * (2024-07-23) 현재 RTX 40(notebook) 시리즈에서 수동 드라이브 설치가 안되는 것으로 확인
+        * 해결을 위해 Geforece Experience를 설치하여 자동으로 NVIDIA 드라이버를 설치하는 방법을 써야한다.
+        ![img](./img/NVIDIA_drriver_40_1.png)
+        * Geforece Experience 지금 다운로드 클릭하여 다운로드 후 설치 진행
+        ![img](./img/NVIDIA_driver_40_2.png)
+        * 드라이버 설치 확인
+        ![img](./img/NVIDIA_driver_check.png)
 
 ## CUDA 설치
 * 호환가능한 CUDA 버전 확인
