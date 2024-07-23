@@ -36,8 +36,8 @@
         ![img](./img/NVIDIA_drriver_40_1.png)
         * Geforece Experience 지금 다운로드 클릭하여 다운로드 후 설치 진행
         ![img](./img/NVIDIA_driver_40_2.png)
-        * 드라이버 설치 확인
-        ![img](./img/NVIDIA_driver_check.png)
+* 드라이버 설치 확인
+![img](./img/NVIDIA_driver_check.png)
 
 ## CUDA 설치
 * 호환가능한 CUDA 버전 확인
